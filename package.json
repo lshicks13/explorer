@@ -4,7 +4,7 @@
   "description": "This is a bitcoin project from blockgeeks.",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
